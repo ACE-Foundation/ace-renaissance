@@ -66,7 +66,7 @@ If heat is electrified:
 
 For Sweden’s residual:
 
-23 * (3 to 5) = 69 to 115 TWh electricity per year
+23 × (3 to 5) = 69 to 115 TWh electricity per year
 
 This corresponds to:
 
