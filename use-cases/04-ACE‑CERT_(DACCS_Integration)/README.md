@@ -15,11 +15,7 @@ Use Case 04 shows how this residual is operationally addressed through **DACCS�
 
 ## **1. Why DACCS Fits Naturally into ACE**
 
-ACE expresses all carbon removal — biological or technological — in the same unit:
-
-\[
-\text{ton CO₂e}
-\]
+ACE expresses all carbon removal — biological or technological — in the same unit: ton CO₂e
 
 DACCS integrates seamlessly into this architecture because it provides:
 
@@ -48,9 +44,8 @@ From Use Case 03:
 - Maximum biological CDR: **≈22 Mt CO₂e/yr**  
 - National emissions: **≈45 Mt CO₂e/yr**  
 - **Residual:**  
-  \[
-  45 - 22 = 23 \text{ Mt CO₂e/yr}
-  \]
+  
+  45 - 22 = 23 Mt CO₂e/yr
 
 This is the volume that must be covered by **DACCS‑based ACE‑CERT**.
 
@@ -67,15 +62,11 @@ DACCS typically requires:
 
 If heat is electrified:
 
-\[
-\approx 3\text{–}5 \text{ MWh electricity per ton CO₂}
-\]
+3–5 MWh electricity per ton CO₂
 
 For Sweden’s residual:
 
-\[
-23 \text{ Mt} \times 3\text{–}5 \text{ MWh/ton} = 69\text{–}115 \text{ TWh electricity per year}
-\]
+23 * (3 to 5) = 69 to 115 TWh electricity per year
 
 This corresponds to:
 
