@@ -1,0 +1,107 @@
+{
+  "certificate_id": "ACE-CERT-2021-87287961",
+  "timestamp": "2026-03-27T09:11:28Z",
+  "soil_params": {
+    "soil": "N/A",
+    "humus": 0,
+    "density": 0,
+    "z_ref": 0,
+    "cn_humus": 0
+  },
+  "domain_profile": {},
+  "metrics": {
+    "GOeff": 0.0,
+    "MINeff": 0.0,
+    "EKeff": 0.0,
+    "biochar": 0.0,
+    "CO2e_total": 35868.7068128852
+  },
+  "co2e_data": {
+    "n_losses": 0.0,
+    "co2e_n2o": 0.0,
+    "pools": {
+      "B1": {
+        "N_change": 0.0,
+        "CO2e_storage": 0.0
+      },
+      "B2": {
+        "N_change": 0.0,
+        "CO2e_storage": 0.0
+      },
+      "B3": {
+        "N_change": 0.0,
+        "CO2e_storage": 0.0
+      }
+    },
+    "fossil": 35868.7068128852,
+    "biochar": -0.0,
+    "net": 35868.7068128852
+  },
+  "metadata": {
+    "ace_cust_id": "ACE-CUST-00000001",
+    "year": "2021",
+    "scenario": "Industrial baseline fossil process",
+    "ace_version": "1.0.0"
+  },
+  "input": {
+    "id": "ACE-CUST-00000001",
+    "year": "2021",
+    "cost": "1000000",
+    "currency": "SEK",
+    "biochar": "0",
+    "method": "IND",
+    "land_use": "other",
+    "area_ha": "1",
+    "scenario": "Industrial baseline fossil process",
+    "Soil": "Clay",
+    "TS_grain_prev": "5000",
+    "TS_FG_prev": "2000",
+    "TS_grain": "5000",
+    "TS_FG": "2200",
+    "Measured_N_prev": "20",
+    "Measured_N": "20",
+    "Fertilized_N": "22",
+    "Soil_Disturbance": "3",
+    "Biomass_Flows": "2",
+    "Pesticides": "3",
+    "Biodiversification": "3",
+    "Fertilizers": "3",
+    "Production_System": "2",
+    "Hydrology": "2",
+    "m3sk_inc": "3",
+    "TS_perennial": "2000"
+  },
+  "hashes": {
+    "input": "sha256:a3687cb598970063f6fca2875318d6648d1b370e82a1f20fce6d422087287961",
+    "scenario": "sha256:72e53e6447d103eaf9337216852dc0a506522dc3ea0e9331169390d0b7857164",
+    "calculation": "sha256:4d7b9f81b8acbbc2d5a1a5c71787b67eaa09ee9dbdbb0423f81a0af8fe81f688",
+    "method": "sha256:01c7544a17be0b362cf658525015098518fe6f3aafae0eb0591f955e7adf0498"
+  },
+  "IS": {
+    "Measured_N_prev": 0.0,
+    "Measured_N_curr": 0.0,
+    "N_balance": 0.0,
+    "Fertilized_N": 0.0,
+    "Deposition": 0.0,
+    "N_fix": 0.0,
+    "Biomass_uptake": 0.0,
+    "N_losses": 0.0,
+    "Measured_Nv": 0.0,
+    "Measured_N": 0.0,
+    "SE": 0.0
+  },
+  "pools": {
+    "B1_prev": 0.0,
+    "B2_prev": 0.0,
+    "B3_prev": 0.0,
+    "opening": 0.0
+  },
+  "closing": {
+    "B1": 0.0,
+    "B2": 0.0,
+    "B3": 0.0,
+    "closing": 0.0,
+    "change": 0.0
+  },
+  "mineralisering": 0.0
+}
