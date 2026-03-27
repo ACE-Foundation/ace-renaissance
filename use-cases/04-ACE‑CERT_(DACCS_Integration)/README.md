@@ -186,4 +186,3 @@ ACE‑CERT is the market instrument.
 DACCS is the system‑level solution.**
 
 Together, they form the architecture that allows Sweden — with its energy profile, climate and storage access — to turn a structural challenge into a structural advantage.
-If you want, I can now write **Use Case 05 — ACE Market Architecture**, or produce a **visual system model** that shows the full flow from biological CDR → residual → DACCS → ACE‑CERT.
