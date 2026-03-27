@@ -1,4 +1,4 @@
-# **Use Case 03 — Systemic Consequence**
+# **Use Case 03 — Biomass Limits (DACCS)**
 
 The previous use case established a core ACE principle:  
 **all biological CDR is expressed in the same denominator — CO₂e per hectare — making regenerative agriculture, forest and perennial systems fungible and quantitatively matchable with industrial ACE‑CERT.**
