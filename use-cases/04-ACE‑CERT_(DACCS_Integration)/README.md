@@ -154,11 +154,6 @@ ACE‑CERT provides the **infrastructure** for that market:
 ACE does not create demand —  
 but ACE makes demand **possible**.
 
-For Sweden, this means:
-
-> **Without an ACE‑CERT market, no DACCS will be built.  
-With an ACE‑CERT market, Sweden can become Europe’s DACCS hub.**
-
 ---
 
 # **Use Case 04 — Summary**
