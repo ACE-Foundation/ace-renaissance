@@ -52,10 +52,7 @@ ACE makes it possible to quantify the national biological CDR ceiling with preci
 | Cropland | **2.7 M ha** |
 | Perennial/vall | **1.1 M ha** |
 
-Total biological area:  
-\[
-31.8 \text{ million ha}
-\]
+Total biological area: 31.8 million ha
 
 ### **ACE‑value per hectare**
 
