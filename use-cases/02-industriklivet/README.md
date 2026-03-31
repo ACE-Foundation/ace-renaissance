@@ -168,9 +168,7 @@ A high‑integrity CRCF‑aligned biological CDR unit.
 
 ### **Pairing Logic**
 
-\[
-\frac{35.9}{0.716} \approx 50 \text{ ha}
-\]
+35.9 / 0.716 approx= 50 ha
 
 Thus:
 
