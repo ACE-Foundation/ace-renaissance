@@ -124,7 +124,4 @@ ACE‑Mining is the first system where:
 - **Value = grounded in physical reality**  
 
 Crypto mining produces artificial scarcity.  
-ACE‑Mining produces **verifiable climate benefit**.
-- a **shorter 1‑page version**,  
-- a **more technical version**,  
-- or a **version tailored for investors or regulators**.
+ACE produces **verifiable climate benefit**
