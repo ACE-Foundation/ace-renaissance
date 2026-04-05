@@ -1,4 +1,4 @@
-# **USE CASE: ACE‑Mining vs. Traditional Crypto Mining**  
+# **USE CASE: ACE vs. Traditional Crypto Mining**  
 ### *A top‑down comparison of two fundamentally different value‑creation models*
 
 ## **1. Executive Summary**
@@ -20,7 +20,7 @@ Only one of them produces **real value**.
 **Nature of input:**  
 Pure energy consumption with no external utility.
 
-### **ACE‑Mining**
+### **ACE**
 - Agronomic improvements  
 - Land stewardship  
 - Soil carbon enhancement  
@@ -44,7 +44,7 @@ Real, measurable climate‑positive work grounded in biology, physics, and engin
 **Mechanism:**  
 Closed‑loop computation with no external value creation.
 
-### **ACE‑Mining**
+### **ACE**
 - Run a deterministic, certifiable carbon engine  
 - Quantify biogenic, fossil, and negative CO₂e flows  
 - Produce a verifiable climate certificate  
@@ -63,7 +63,7 @@ Open‑loop transformation of real climate impact into a standardized asset.
 - No physical counterpart  
 - No measurable external benefit  
 
-### **ACE‑Mining**
+### **ACE**
 - Verified CO₂e reduction  
 - Ledger‑anchored certificate  
 - Fungible CO₂e tokens (1 token = 1 kg CO₂e)  
