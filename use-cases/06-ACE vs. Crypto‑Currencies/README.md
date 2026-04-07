@@ -3,7 +3,7 @@
 
 ## **1. Executive Summary**
 Traditional crypto mining converts **electricity** into **artificial digital assets**.  
-ACE‑Mining converts **real‑world climate action** into **fungible CO₂e ownership tokens**.
+ACE converts **real‑world climate action** into **fungible CO₂e ownership tokens**.
 
 Both systems “mint” tokens.  
 Only one of them produces **real value**.
