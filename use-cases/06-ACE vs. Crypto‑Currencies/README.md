@@ -116,8 +116,8 @@ Open‑loop transformation of real climate impact into a standardized asset.
 
 ---
 
-## **8. Why ACE‑Mining Is “Mining for the Real World”**
-ACE‑Mining is the first system where:
+## **8. Why ACE Is “Mining for the Real World”**
+ACE is the first system where:
 
 - **Input = real climate work**  
 - **Output = a fungible, ledger‑anchored CO₂e asset**  
