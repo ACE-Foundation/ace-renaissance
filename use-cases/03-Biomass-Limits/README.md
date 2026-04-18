@@ -76,7 +76,7 @@ W \times 3.67 \approx 2.6 \ \text{t CO₂e ha^{-1} yr^{-1}}
 #### What makes W a *real* constant?
 
 W behaves like other scientific constants that describe large‑scale natural patterns —  
-not unlike **H₀** (Hubble constant) in cosmology or **Q₁₀** in biology.
+not unlike **H₀** (Hubble constant) in cosmology.
 
 It qualifies as a real constant because:
 
