@@ -104,6 +104,20 @@ with **0.7** as the most representative, cross‑domain value.
 This makes W a **near‑upper‑range biological invariant** —  
 a realistic target that healthy ecosystems can approach.
 
+#### Evidence, not proof
+
+ACE does not claim that the Waldenlind Constant (W) is “proven” in a mathematical sense.
+
+Instead, W is defined as a **testable biological invariant**:
+
+- independent data from forests, grasslands, regenerative cropland and agroforestry
+  all converge toward the same long‑term range (≈0.5–1.0 t C ha⁻¹ yr⁻¹)
+- no stable systems are observed an order of magnitude above this range
+- W can be **falsified** if robust, long‑term data consistently show a different invariant level
+
+In other words:  
+ACE does not prove W — it **shows that W exists as a recurring pattern in real ecosystems**, and leaves it open for others to confirm, refine, or falsify.
+
 #### ACE‑Value per Hectare
 
 ACE uses the Waldenlind Constant as the baseline biological flux:
