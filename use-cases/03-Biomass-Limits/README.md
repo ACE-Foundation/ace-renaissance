@@ -54,13 +54,76 @@ ACE makes it possible to quantify the national biological CDR ceiling with preci
 
 Total biological area: 31.8 million ha
 
-### **ACE‑value per hectare**
+#### Waldenlind Constant (W)
 
-All three domains converge around:
+The **Waldenlind Constant** is a biological constant defined by ACE.  
+It captures a simple but powerful observation:
+
+> **Well‑managed living systems across ecological domains tend to approach the same characteristic net carbon uptake.**
+
+Formally:
 
 \[
-\approx -0.7 \text{ t CO₂e per ha per year}
+W = 0.7 \ \text{t C ha^{-1} yr^{-1}}
 \]
+
+Converted to CO₂‑equivalents:
+
+\[
+W \times 3.67 \approx 2.6 \ \text{t CO₂e ha^{-1} yr^{-1}}
+\]
+
+#### What makes W a *real* constant?
+
+W behaves like other scientific constants that describe large‑scale natural patterns —  
+not unlike **H₀** (Hubble constant) in cosmology or **Q₁₀** in biology.
+
+It qualifies as a real constant because:
+
+- it emerges **independently** in forests, regenerative cropland, grasslands, and agroforestry  
+- it reflects **fundamental ecological constraints** (photosynthesis, respiration, soil carbon stabilization)  
+- it is **stable as an order of magnitude** across climates and management systems  
+- it is **empirically measurable** and **scientifically falsifiable**
+
+In other words:  
+**ACE defines the constant, but nature supplies the evidence.**
+
+#### Not a ceiling — but near to the biological upper range
+
+W is **not** a hard maximum.  
+Biological systems can exceed it temporarily, especially during early regeneration phases.
+
+But across long time spans, well‑managed systems tend to operate near:
+
+\[
+0.5 \text{–} 1.0 \ \text{t C ha^{-1} yr^{-1}}
+\]
+
+with **0.7** as the most representative, cross‑domain value.
+
+This makes W a **near‑upper‑range biological invariant** —  
+a realistic target that healthy ecosystems can approach.
+
+#### ACE‑Value per Hectare
+
+ACE uses the Waldenlind Constant as the baseline biological flux:
+
+\[
+\text{ACE‑value per hectare} = - W \times 3.67
+\]
+
+\[
+\text{ACE‑value per hectare} \approx -2.6 \ \text{t CO₂e ha^{-1} yr^{-1}}
+\]
+
+The negative sign indicates **net removal of CO₂ from the atmosphere**.
+
+This gives ACE a **single, domain‑agnostic KPI** for evaluating biological performance across:
+
+- forests  
+- regenerative agriculture  
+- perennial grasslands  
+- mixed perennial systems  
 
 ### **Maximum biological CDR**
 
