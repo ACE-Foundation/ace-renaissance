@@ -63,15 +63,7 @@ It captures a simple but powerful observation:
 
 Formally:
 
-\[
-W = 0.7 \ \text{t C ha^{-1} yr^{-1}}
-\]
-
-Converted to CO₂‑equivalents:
-
-\[
-W \times 3.67 \approx 2.6 \ \text{t CO₂e ha^{-1} yr^{-1}}
-\]
+W = 0.7 CO2e per ha and year
 
 #### What makes W a *real* constant?
 
@@ -95,10 +87,6 @@ Biological systems can exceed it temporarily, especially during early regenerati
 
 But across long time spans, well‑managed systems tend to operate near:
 
-\[
-0.5 \text{–} 1.0 \ \text{t C ha^{-1} yr^{-1}}
-\]
-
 with **0.7** as the most representative, cross‑domain value.
 
 This makes W a **near‑upper‑range biological invariant** —  
@@ -118,32 +106,9 @@ Instead, W is defined as a **testable biological invariant**:
 In other words:  
 ACE does not prove W — it **shows that W exists as a recurring pattern in real ecosystems**, and leaves it open for others to confirm, refine, or falsify.
 
-#### ACE‑Value per Hectare
-
-ACE uses the Waldenlind Constant as the baseline biological flux:
-
-\[
-\text{ACE‑value per hectare} = - W \times 3.67
-\]
-
-\[
-\text{ACE‑value per hectare} \approx -2.6 \ \text{t CO₂e ha^{-1} yr^{-1}}
-\]
-
-The negative sign indicates **net removal of CO₂ from the atmosphere**.
-
-This gives ACE a **single, domain‑agnostic KPI** for evaluating biological performance across:
-
-- forests  
-- regenerative agriculture  
-- perennial grasslands  
-- mixed perennial systems  
-
 ### **Maximum biological CDR**
 
-\[
-31.8 \text{ M ha} \times 0.7 \approx 22 \text{ Mt CO₂e/yr}
-\]
+31.8 M ha * 0.7 = Mt CO2e per year
 
 ### **Sweden’s emissions**
 
