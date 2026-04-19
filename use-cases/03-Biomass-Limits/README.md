@@ -135,7 +135,7 @@ ACE does not claim that the Waldenlind Constant (W) is “proven” in a mathema
 Instead, W is defined as a **testable biological invariant**:
 
 - independent data from forests, grasslands, regenerative cropland and agroforestry
-  all converge toward the same long‑term range (≈0.5–1.0 t C ha⁻¹ yr⁻¹)
+  all converge toward the same long‑term range (≈0.5–1.0 t CO2e ha⁻¹ yr⁻¹)
 - no stable systems are observed an order of magnitude above this range
 - W can be **falsified** if robust, long‑term data consistently show a different invariant level
 
