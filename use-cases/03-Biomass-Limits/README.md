@@ -63,7 +63,7 @@ It captures a simple but powerful observation:
 
 Formally:
 
-W = 0.7 CO2e per ha and year
+W = 0.7 tn CO2e per ha and year
 
 #### What makes W a *real* constant?
 
@@ -92,6 +92,42 @@ with **0.7** as the most representative, cross‑domain value.
 This makes W a **near‑upper‑range biological invariant** —  
 a realistic target that healthy ecosystems can approach.
 
+#### Example (forest, 5 m³ ha⁻¹ yr⁻¹ increment)**
+
+**Given:**
+
+- Annual stem volume increment: **5 m³ ha⁻¹ yr⁻¹**  
+- Wood density (dry): **400 kg m⁻³**  
+- Carbon fraction of biomass: **0.50**
+
+**Step 1 — Volume → biomass**
+
+5 * 400 = 2000 kg biomass per ha and year
+
+**Step 2 — Biomass → carbon**
+
+2000 * 50% = 1000 kg C per ha and year
+
+**Step 3 — Characteristic retained fraction**
+
+Across well‑managed systems, a stable fraction of annual net production becomes long‑lived carbon (roots, soil carbon, coarse woody debris, microbial necromass).
+Empirically:
+
+1000 * ~19% = 190 kg C ha and year
+
+**Step 4 — Convert to CO2e**
+
+190 * 44/12 = 700 kg CO2e per ha and year
+
+# **Result**
+
+A forest with a growth of **5 m³ per ha and yrea** increment naturally converges toward:
+
+W ~ 0.7 t CO2e ha and year
+
+This example illustrates how W emerges directly from basic ecological accounting, without requiring model‑specific assumptions.
+
+
 #### Evidence, not proof
 
 ACE does not claim that the Waldenlind Constant (W) is “proven” in a mathematical sense.
@@ -108,16 +144,15 @@ ACE does not prove W — it **shows that W exists as a recurring pattern in real
 
 ### **Maximum biological CDR**
 
-31.8 M ha * 0.7 = Mt CO2e per year
+31.8 M ha * 0.7 ≈ 22 Mt CO2e per year
 
 ### **Sweden’s emissions**
 
-- National emissions: **≈45 Mt CO₂e/yr**  
-- Biological CDR max: **≈22 Mt CO₂e/yr**  
+- National emissions: **≈45 Mt CO2e per year**  
+- Biological CDR max: **≈22 Mt CO2e per year**  
 - **Residual:**  
-  \[
-  45 - 22 = 23 \text{ Mt CO₂e/yr}
-  \]
+
+  45 - 22 = 23 Mt CO₂e per year
 
 This is an **ontological mismatch**, not a political one.
 
